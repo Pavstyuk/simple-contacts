@@ -1,14 +1,8 @@
-=== Simple Contacts ===
-Stable tag:        0.0.3
-Tested up to:      6.7.1
-Contributors:      pavstyuk
-Tags:              contacts, company info
-License:           GPLv2 or later
-License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+**Simple Contacts Wordpress Plugin**
 
 Store contact information of company in one place and easy display it trow simple shortcodes.
 
-== Description ==
+**Description**
 Simple Contacts plugin to store contact information of company in one place. And easy to display in any place on your site with shortcode. Also with php method get_option("name-of-option")
 
 Example
@@ -16,6 +10,6 @@ Example
 
 ``` [simple_contacts_address_b] ```
 
-== Changelog ==
+**Changelog**
 = 0.0.3 =
-* First Public Version
+* Fixed error on uninstall process
