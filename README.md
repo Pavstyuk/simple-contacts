@@ -12,5 +12,9 @@ Simple Contacts plugin to store contact information of company in one place. And
 ``` [simple_contacts_address_b] ```
 
 **Changelog**
-= 0.0.3 =
+
+**0.0.3**
 * Fixed error on uninstall process
+
+**0.0.2**
+* First Release
