@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Contacts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-16 06:50+0000\n"
+"PO-Revision-Date: 2024-12-16 06:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
+"X-Domain: simple_contacts"
+
+#: simple-contacts.php:180
+msgid "Company address A"
+msgstr "Адрес компании A"
+
+#: simple-contacts.php:201
+msgid "Company address B"
+msgstr "Адрес компании Б"
+
+#: content-page.php:3
+msgid "Contact details of the company"
+msgstr "Контактные данные компании"
+
+#: simple-contacts.php:36
+msgid "Contact info"
+msgstr "Контактная информация"
+
+#: simple-contacts.php:36
+msgid "Contacts"
+msgstr "Контакты"
+
+#: content-page.php:2
+msgid "Contacts and information"
+msgstr "Контакты и информация"
+
+#: simple-contacts.php:104
+msgid "Email"
+msgstr "Email"
+
+#: simple-contacts.php:62
+msgid ""
+"Enter the contacts, address and additional information about the organization"
+msgstr "Введите контакты, адрес и дополнительную информацию об организации"
+
+#. URI of the plugin
+msgid "https://github.com/Pavstyuk/simple-contacts"
+msgstr "https://github.com/Pavstyuk/simple-contacts"
+
+#. Author URI of the plugin
+msgid "https://pavstyuk.ru/"
+msgstr "https://pavstyuk.ru/"
+
+#: simple-contacts.php:222
+msgid "Information A"
+msgstr "Информация А"
+
+#: simple-contacts.php:243
+msgid "Information B"
+msgstr "Информация Б"
+
+#. Author of the plugin
+msgid "Mikhail Pavstyuk"
+msgstr "Михаил Павстюк"
+
+#: simple-contacts.php:60
+msgid "Organization info"
+msgstr "Информация об организации"
+
+#: simple-contacts.php:69
+msgid "Phone A"
+msgstr "Телефое А"
+
+#: simple-contacts.php:85
+msgid "Phone B"
+msgstr "Телефон B"
+
+#: simple-contacts.php:73 simple-contacts.php:92 simple-contacts.php:110
+#: simple-contacts.php:128 simple-contacts.php:148 simple-contacts.php:166
+#: simple-contacts.php:187 simple-contacts.php:208 simple-contacts.php:229
+#: simple-contacts.php:250
+msgid "PHP code:"
+msgstr "Код PHP:"
+
+#: simple-contacts.php:72 simple-contacts.php:90 simple-contacts.php:109
+#: simple-contacts.php:126 simple-contacts.php:146 simple-contacts.php:164
+#: simple-contacts.php:184 simple-contacts.php:207 simple-contacts.php:226
+#: simple-contacts.php:249
+msgid "ShortCode:"
+msgstr "Короткий код"
+
+#. Name of the plugin
+msgid "Simple Contacts"
+msgstr "Простые контакты"
+
+#. Description of the plugin
+msgid ""
+"Simple Contacts plugin to store contact information of company in one place. "
+"And easy to display in any place on your site with shortcode. Also with php "
+"method get_option(\"name-of-option\")"
+msgstr ""
+"Простой Простые Контакты для хранения контактной информации компании в одном "
+"месте. Его легко отображать в любом месте вашего сайта с помощью шорткода. "
+"Также с помощью php кода get_option(\"название опции\")."
+
+#: simple-contacts.php:142
+msgid "Telegram"
+msgstr "Телеграм"
+
+#: simple-contacts.php:122
+msgid "Vk"
+msgstr "ВК"
+
+#: simple-contacts.php:160
+msgid "WhatsApp"
+msgstr "WhatsApp"
