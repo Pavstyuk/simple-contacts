@@ -5,7 +5,8 @@ Store contact information of company in one place and easy display it trow simpl
 **Description**
 Simple Contacts plugin to store contact information of company in one place. And easy to display in any place on your site with shortcode. Also with php method get_option("name-of-option")
 
-Example
+**ShortCode Examples**
+
 ``` [simple_contacts_phone_a] ```
 
 ``` [simple_contacts_address_b] ```
